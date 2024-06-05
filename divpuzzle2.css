@@ -34,10 +34,6 @@ body {
 	width: 250px;
 }
 
-.top-section{
-	width: 250px;
-}
-
 .orange--box {
 	width: 100px;
 	height: 150px;
@@ -55,14 +51,12 @@ body {
 	width: 150px;
 	height: 100px;
 	background: #0093b7; /* Blue */
-	float: left;
 }
 
 .brown--box {
     width: 250px;
     height: 100px;
     background: #8c2727; /* Brown */
-    clear: left;
 }
 
 .yellow--box {
